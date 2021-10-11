@@ -54,7 +54,7 @@ Then, press **Open Studio** on the interface below:
 
 2. From the left menu, click **SageMaker resources**, and from the SageMaker dropdown list, click   **Experiments and trials**:
 
-![Experiments and trials](pictures/Experiments.png)
+![Experiments and trials](pictures/experiments.png)
 
 3. Click on  **Create Autopilot Experiment**:
 
